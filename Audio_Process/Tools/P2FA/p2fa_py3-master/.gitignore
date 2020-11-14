@@ -1,0 +1,13 @@
+py2fa/__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+*~
+\#*\#
+.DS_Store
+*.zip
+sample
+sox*
+py2fa/tmp
+.idea/
+.directory/
